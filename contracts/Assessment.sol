@@ -3,6 +3,8 @@ pragma solidity ^0.8.9;
 
 //import "hardhat/console.sol";
 
+// For this project, create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application.
+
 contract Assessment {
     address payable public owner;
     uint256 public balance;
